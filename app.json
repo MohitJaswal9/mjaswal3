@@ -1,0 +1,22 @@
+{
+  "name": "Chat-Messanger",
+  "description": "my first socket.io app",
+  "website": "https://github.com/MohitJaswal9/mjaswal3",
+  "repository": "https://github.com/MohitJaswal9/mjaswal3",
+  "logo": "https://fierce-lowlands-58187.herokuapp.com/",
+  "success_url": "/",
+  "keywords": [
+    "node",
+    "express",
+    "socket.io",
+    "realtime",
+    "websocket"
+  ],
+  "scripts": {
+  },
+  "addons": [
+  ],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
+  }
+}

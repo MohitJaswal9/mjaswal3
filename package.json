@@ -1,0 +1,13 @@
+
+{
+  "name": "Chat-Messanger",
+  "version": "1.0.0",
+  "description": "my first app",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
